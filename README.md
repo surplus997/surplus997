@@ -1,6 +1,5 @@
 ### Hi there 👋
-<body bgcolor="fff3da">
-</body>
+<bgcolor="fff3da">
 <!--
 **surplus997/surplus997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
