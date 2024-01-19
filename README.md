@@ -1,5 +1,7 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurplus997&count_bg=%23434343&title_bg=%23479E93&icon=&icon_color=%23757575&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## JAE KWON LEE
 <bgcolor="fff3da">
+
 <!--
 **surplus997/surplus997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
